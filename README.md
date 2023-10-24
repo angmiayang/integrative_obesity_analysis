@@ -2,7 +2,7 @@
 
 Welcome to the README file of the "integrative_obesity_analysis" repository.
 
-This repository serves as a comprehensive collection of programming scripts utilized in the analysis of "integrative analysis of obesity from genome-wide association studies (GWAS)".
+This repository serves as a comprehensive collection of programming scripts utilized in the analysis of "Deciphering the genetic landscape of obesity: a data-driven approach to identifying plausible causal genes and therapeutic targets".
 
 The scripts have been thoughtfully organized into distinct categories, allowing for easy navigation and identification of their respective functionalities. 
 
